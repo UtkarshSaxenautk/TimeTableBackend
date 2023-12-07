@@ -1,0 +1,714 @@
+[
+    {
+        "course": "B Tech CSE 2",
+        "name": "SubjectName21",
+        "code": "SubjectNameSUB21",
+        "id" : 1,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 2",
+        "name": "SubjectName22",
+        "code": "SubjectNameSUB22",
+        "id" : 2,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 2",
+        "name": "SubjectName23",
+        "code": "SubjectNameSUB23",
+        "id":3,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 2",
+        "name": "SubjectName24",
+        "code": "SubjectNameSUB24",
+        "id" : 4,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 2",
+        "name": "SubjectName25",
+        "code": "SubjectNameSUB25",
+        "id" : 5,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 2",
+        "name": "SubjectName26",
+        "code": "SubjectNameSUB26",
+        "id":6,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "B Tech CSE 2",
+        "name": "SubjectName27",
+        "code": "SubjectNameSUB27",
+        "id":7,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "B Tech CSE 2",
+        "name": "SubjectName28",
+        "code": "SubjectNameSUB28",
+        "id" : 8,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "B Tech CSE 4",
+        "name": "SubjectName41",
+        "code": "SubjectNameSUB41",
+        "id" : 9,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 4",
+        "name": "SubjectName42",
+        "code": "SubjectNameSUB42",
+        "id" : 10,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 4",
+        "name": "SubjectName43",
+        "code": "SubjectNameSUB43",
+        "id" : 11,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 4",
+        "name": "SubjectName44",
+        "code": "SubjectNameSUB44",
+        "id" : 12,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 4",
+        "name": "SubjectName45",
+        "code": "SubjectNameSUB45",
+        "id" : 13,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 4",
+        "name": "SubjectName46",
+        "code": "SubjectNameSUB46",
+        "id" : 14,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "B Tech CSE 4",
+        "name": "SubjectName47",
+        "code": "SubjectNameSUB47",
+        "id" : 15,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "B Tech CSE 4",
+        "name": "SubjectName48",
+        "code": "SubjectNameSUB48",
+        "id" : 16,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "B Tech CSE 6",
+        "name": "SubjectName61",
+        "code": "SubjectNameSUB61",
+        "id" : 17,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 6",
+        "name": "SubjectName62",
+        "code": "SubjectNameSUB62",
+        "id" : 18,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 6",
+        "name": "SubjectName63",
+        "code": "SubjectNameSUB63",
+        "id" : 19,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 6",
+        "name": "SubjectName64",
+        "code": "SubjectNameSUB64",
+        "id" : 20,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 6",
+        "name": "SubjectName65",
+        "code": "SubjectNameSUB65",
+        "id" : 21,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "B Tech CSE 6",
+        "name": "SubjectName66",
+        "code": "SubjectNameSUB66",
+        "id" : 22,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "B Tech CSE 6",
+        "name": "SubjectName67",
+        "code": "SubjectNameSUB67",
+        "id" : 23,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "B Tech CSE 6",
+        "name": "SubjectName68",
+        "code": "SubjectNameSUB68",
+        "id" : 24,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "BCA 2",
+        "name": "BCA21",
+        "code": "BCASUB21",
+        "id" : 25,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 2",
+        "name": "BCA22",
+        "code": "BCASUB22",
+        "id" : 26,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 2",
+        "name": "BCA23",
+        "code": "BCASUB23",
+        "id" : 27,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 2",
+        "name": "BCA24",
+        "code": "BCASUB24",
+        "id" : 28,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 2",
+        "name": "BCA25",
+        "code": "BCASUB25",
+        "id" : 29,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 2",
+        "name": "BCA26",
+        "code": "BCASUB26",
+        "id" : 30,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "BCA 2",
+        "name": "BCA27",
+        "code": "BCASUB27",
+        "id" : 31,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    
+    {
+        "course": "BCA 4",
+        "name": "BCA41",
+        "code": "BCASUB41",
+        "id" : 32,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 4",
+        "name": "BCA42",
+        "code": "BCASUB42",
+        "id" : 33,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 4",
+        "name": "BCA43",
+        "code": "BCASUB43",
+        "id" : 34,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 4",
+        "name": "BCA44",
+        "code": "BCASUB44",
+        "id" : 35,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 4",
+        "name": "BCA45",
+        "code": "BCASUB45",
+        "id" : 36,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 4",
+        "name": "BCA46",
+        "code": "BCASUB46",
+        "id" : 37,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "BCA 4",
+        "name": "BCA47",
+        "code": "BCASUB47",
+        "id" : 38,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "BCA 4",
+        "name": "BCA48",
+        "code": "BCASUB48",
+        "id" : 39,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "BCA 6",
+        "name": "BCA61",
+        "code": "BCASUB61",
+        "id" : 40,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 6",
+        "name": "BCA62",
+        "code": "BCASUB62",
+        "id" : 41,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 6",
+        "name": "BCA63",
+        "code": "BCASUB63",
+        "id" : 42,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 6",
+        "name": "BCA64",
+        "code": "BCASUB64",
+        "id" : 43,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 6",
+        "name": "BCA65",
+        "code": "BCASUB65",
+        "id" : 44,
+        "lecture": 3,
+        "tutorial": 1,
+        "practical": 0
+    },
+    {
+        "course": "BCA 6",
+        "name": "BCA66",
+        "code": "BCASUB66",
+        "id" : 45,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "BCA 6",
+        "name": "BCA67",
+        "code": "BCASUB67",
+        "id" : 46,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "BCA 6",
+        "name": "BCA68",
+        "code": "BCASUB68",
+        "id" : 47,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "M Tech CSE 2",
+        "name": "MTECH21",
+        "code": "MTECHSUB21",
+        "id" : 48,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "M Tech CSE 2",
+        "name": "MTECH22",
+        "code": "MTECHSUB22",
+        "id": 49,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "M Tech CSE 2",
+        "name": "MTECH23",
+        "code": "MTECHSUB23",
+        "id" : 50,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "M Tech CSE 2",
+        "name": "MTECH24",
+        "code": "MTECHSUB24",
+        "id" : 51,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "M Tech CSE 2",
+        "name": "MTECH25",
+        "code": "MTECHSUB25",
+        "id" : 52,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "M Tech CSE 2",
+        "name": "MTECH26",
+        "code": "MTECHSUB26",
+        "id" : 53,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "M Tech CSE 2",
+        "name": "MTECH27",
+        "code": "MTECHSUB27",
+        "id" : 54,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "M Tech CSE 2",
+        "name": "MTECH28",
+        "code": "MTECHSUB28",
+        "id" : 55,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "M Tech CSE 4",
+        "name": "MTECH41",
+        "code": "MTECHSUB41",
+        "id" : 56,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "M Tech CSE 4",
+        "name": "MTECH42",
+        "code": "MTECHSUB42",
+        "id" : 57,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "M Tech CSE 4",
+        "name": "MTECH43",
+        "code": "MTECHSUB43",
+        "id" : 58,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "M Tech CSE 4",
+        "name": "MTECH44",
+        "code": "MTECHSUB44",
+        "id" : 59,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "M Tech CSE 4",
+        "name": "MTECH45",
+        "code": "MTECHSUB45",
+        "id" : 60,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "M Tech CSE 4",
+        "name": "MTECH46",
+        "code": "MTECHSUB46",
+        "id" : 61,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "M Tech CSE 4",
+        "name": "MTECH47",
+        "code": "MTECHSUB47",
+        "id" : 62,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "M Tech CSE 4",
+        "name": "MTECH48",
+        "code": "MTECHSUB48",
+        "id" : 63,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "MCA 2",
+        "name": "MCA21",
+        "code": "MCASUB21",
+        "id" : 64,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "MCA 2",
+        "name": "MCA22",
+        "code": "MCASUB22",
+        "id" : 65,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "MCA 2",
+        "name": "MCA23",
+        "code": "MCASUB23",
+        "id" : 66,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "MCA 2",
+        "name": "MCA24",
+        "code": "MCASUB24",
+        "id" : 67,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "MCA 2",
+        "name": "MCA25",
+        "code": "MCASUB25",
+        "id" : 68,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "MCA 2",
+        "name": "MCA26",
+        "code": "MCASUB26",
+        "id" : 69,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "MCA 2",
+        "name": "MCA27",
+        "code": "MCASUB27",
+        "id" : 70,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "MCA 2",
+        "name": "MCA28",
+        "code": "MCASUB28",
+        "id" : 71,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "MCA 4",
+        "name": "MCA41",
+        "code": "MCASUB41",
+        "id" : 72,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "MCA 4",
+        "name": "MCA42",
+        "code": "MCASUB42",
+        "id" : 73,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "MCA 4",
+        "name": "MCA43",
+        "code": "MCASUB43",
+        "id" : 74,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "MCA 4",
+        "name": "MCA44",
+        "code": "MCASUB44",
+        "id" : 75,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "MCA 4",
+        "name": "MCA45",
+        "code": "MCASUB45",
+        "id" : 76,
+        "lecture": 3,
+        "tutorial": 0,
+        "practical": 0
+    },
+    {
+        "course": "MCA 4",
+        "name": "MCA46",
+        "code": "MCASUB46",
+        "id" : 77,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "MCA 4",
+        "name": "MCA47",
+        "code": "MCASUB47",
+        "id" : 78,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    },
+    {
+        "course": "MCA 4",
+        "name": "MCA48",
+        "code": "MCASUB48",
+        "id" : 79,
+        "lecture": 0,
+        "tutorial": 0,
+        "practical": 4
+    }
+]

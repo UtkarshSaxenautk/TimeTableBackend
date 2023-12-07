@@ -1,0 +1,29 @@
+{
+  "name": "timetable",
+  "version": "1.0.0",
+  "description": "\"time-table generator\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UtkarshSaxenautk/TimeTableMaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UtkarshSaxenautk/TimeTableMaker/issues"
+  },
+  "homepage": "https://github.com/UtkarshSaxenautk/TimeTableMaker#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "js-priority-queue": "^0.1.5",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1",
+    "priorityqueuejs": "^2.0.0"
+  }
+}
