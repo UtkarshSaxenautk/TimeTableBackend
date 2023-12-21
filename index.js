@@ -10,7 +10,6 @@ dotenv.config();
 app.use(express.json({ extended: true }));
 app.use(express.urlencoded({ extended: true }));
 
-const cors = require("cors");
 const corsOptions = {
   origin: "*",
   credentials: true, //access-control-allow-credentials:true
